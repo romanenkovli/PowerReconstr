@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "PowerReconstr", "PowerReconstr\PowerReconstr.vfproj", "{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Debug|x64.ActiveCfg = Debug|x64
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Debug|x64.Build.0 = Debug|x64
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Debug|x86.Build.0 = Debug|Win32
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Release|x64.ActiveCfg = Release|x64
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Release|x64.Build.0 = Release|x64
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Release|x86.ActiveCfg = Release|Win32
+		{C9B23BF0-EE68-4B47-A2DA-ED4B7E1AC3FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB261DC-8D28-4CBC-A1B2-6C7F1D9EA00F}
+	EndGlobalSection
+EndGlobal
